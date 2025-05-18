@@ -1,6 +1,7 @@
 from fpdf import FPDF
 from fpdf import FPDF
-
+from fpdf import FPDF
+from fpdf import FPDF
 # Author: @NavonilDas
 
 
