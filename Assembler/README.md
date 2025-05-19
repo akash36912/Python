@@ -31,5 +31,6 @@ Will print onto console
 hello world
 END PROGRAM
 ```
+cde
 
 **Refer to GUIDE.txt to read a guide**
